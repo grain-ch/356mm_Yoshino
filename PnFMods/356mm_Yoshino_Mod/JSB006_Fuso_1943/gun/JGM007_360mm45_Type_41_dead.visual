@@ -1,0 +1,38 @@
+<JGM007_360mm45_Type_41_dead.visual>
+	<boundingBox>
+		<min>	-0.310929 0.000250 -0.438175	</min>
+		<max>	0.313031 0.253119 0.959543	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	turret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	turret_dead	</node>
+		<geometry>
+			<vertices>	turret_deadShape.vertices	</vertices>
+			<primitive>	turret_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/356mm_Yoshino_Mod/JSB006_Fuso_1943/gun/JGM006_360mm45_Type_41_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGM007_360mm45_Type_41_dead.visual>

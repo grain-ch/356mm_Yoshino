@@ -1,0 +1,13 @@
+<JSC044_Yoshino_1945_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/ship/JSC044_Yoshino_1945_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/ship/JSC044_Yoshino_1945_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/ship/JSC044_Yoshino_1945_n.dds	</Texture>
+	</property>
+</JSC044_Yoshino_1945_wire.mfm>

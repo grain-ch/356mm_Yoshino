@@ -1,0 +1,16 @@
+<JRS079_Radar_Type_23_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	50.0000	</extent>
+	<nodefullVisual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/radar/lods/JRS079_Radar_Type_23_lod3	</nodefullVisual>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS079_Radar_Type_23_lod3.model>
