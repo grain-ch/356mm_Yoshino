@@ -1,17 +1,8 @@
 <JRS079_Radar_Type_23.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/radar/lods/JRS079_Radar_Type_23_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/radar/JRS079_Radar_Type_23	</nodefullVisual>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/radar/JRS079_Radar_Type_23.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/JRS079_Radar_Type_23/JRS079_Radar_Type_23.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JRS079_Radar_Type_23.model>

@@ -1,13 +1,6 @@
 <JGM006_360mm45_Type_41.model>
-	<extent>	6.0000	</extent>
-	<parent>	PnFMods/356mm_Yoshino_Mod/JSB006_Fuso_1943/gun/lods/JGM006_360mm45_Type_41_lod1	</parent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.275400 0.000945 -0.441666	</min>
-		<max>	0.283539 0.214850 0.956777	</max>
-	</visibilityBox>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/356mm_Yoshino_Mod/JSB006_Fuso_1943/gun/JGM006_360mm45_Type_41	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/356mm_Yoshino_Mod/JSB006_Fuso_1943/gun/JGM006_360mm45_Type_41.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGM006_360mm45_Type_41.model>

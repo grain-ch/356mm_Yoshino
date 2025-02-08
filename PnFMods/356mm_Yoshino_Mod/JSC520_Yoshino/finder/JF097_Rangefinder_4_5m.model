@@ -1,7 +1,6 @@
 <JF097_Rangefinder_4_5m.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/finder/lods/JF097_Rangefinder_4_5m_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/finder/JF097_Rangefinder_4_5m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/finder/JF097_Rangefinder_4_5m.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JF097_Rangefinder_4_5m.model>

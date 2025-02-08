@@ -1,7 +1,6 @@
 <JC004_Catapult_Type2_N1_model12.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/catapult/lods/JC004_Catapult_Type2_N1_model12_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/catapult/JC004_Catapult_Type2_N1_model12	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/catapult/JC004_Catapult_Type2_N1_model12.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JC004_Catapult_Type2_N1_model12.model>

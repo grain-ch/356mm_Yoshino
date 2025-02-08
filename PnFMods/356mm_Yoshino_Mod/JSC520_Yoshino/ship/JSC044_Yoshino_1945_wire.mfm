@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/ship/JSC044_Yoshino_1945_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/ship/JSC044_Yoshino_1945_n.dds	</Texture>
-	</property>
 </JSC044_Yoshino_1945_wire.mfm>

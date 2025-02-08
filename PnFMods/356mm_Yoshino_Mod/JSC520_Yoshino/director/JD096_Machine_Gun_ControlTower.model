@@ -1,7 +1,6 @@
 <JD096_Machine_Gun_ControlTower.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/director/lods/JD096_Machine_Gun_ControlTower_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/director/JD096_Machine_Gun_ControlTower	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/356mm_Yoshino_Mod/JSC520_Yoshino/director/JD096_Machine_Gun_ControlTower.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JD096_Machine_Gun_ControlTower.model>
