@@ -61,6 +61,51 @@
 						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 					</transform>
 				</node>
+				<node>
+					<identifier>	HP_JGA_1	</identifier>
+					<transform>
+						<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+						<row3>	-0.1651 0.4552 6.3987 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_2	</identifier>
+					<transform>
+						<row0>	0.7071 0.0000 -0.7071 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.7071 0.0000 0.7071 0.0000	</row2>
+						<row3>	0.1651 0.4552 6.3987 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_3	</identifier>
+					<transform>
+						<row0>	0.7071 0.0000 0.7071 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	-0.7071 0.0000 0.7071 0.0000	</row2>
+						<row3>	-0.3381 0.4493 6.2742 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_4	</identifier>
+					<transform>
+						<row0>	0.7071 0.0000 -0.7071 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.7071 0.0000 0.7071 0.0000	</row2>
+						<row3>	0.3381 0.4493 6.2742 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 6.3395 1.0000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
 	</skeleton>
